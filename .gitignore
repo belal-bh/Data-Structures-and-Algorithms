@@ -5,7 +5,7 @@ __pycache__/
 
 # My Development Dirs
 dev/
-
+.vscode/
 # C extensions
 *.so
 
